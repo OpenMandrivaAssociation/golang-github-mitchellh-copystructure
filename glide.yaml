@@ -1,0 +1,5 @@
+import:
+- package: github.com/mitchellh/reflectwalk
+  version: eecf4c70c626c7cfbb95c90195bc34d386c74ac6
+package: github.com/mitchellh/copystructure
+
